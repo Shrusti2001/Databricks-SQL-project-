@@ -8,8 +8,8 @@ contributors, and visualise insights through an interactive dashboard.
 ## Tools & Technologies
 - **Platform:** Databricks Community Edition
 - **Language:** SQL
-- **Dataset:** Dataset: Emissions_Data_2023.csv 
-Source: Alex The Analyst — DatabricksSeries GitHub Repository 
+- **Dataset:** Emissions_Data_2023.csv
+- **Source:** Alex The Analyst — DatabricksSeries GitHub Repository
 - **Visualisation:** Databricks Dashboard
 
 ## What This Project Covers
@@ -21,12 +21,16 @@ Source: Alex The Analyst — DatabricksSeries GitHub Repository
 ## Key Insights
 - Analysed emission trends across countries for 2023
 - Identified highest and lowest emitting regions
-- Created visual dashboard to communicate findings clearly on Databricks dashboard 
+- Created visual dashboard to communicate findings clearly 
+  using Databricks Dashboard
 
 ## How to Run
 1. Import the notebook into Databricks Community Edition
-2. Upload the Emissions 2023 dataset from Kaggle
-3. Run all cells to reproduce the analysis and dashboard
+2. Download Emissions_Data_2023.csv from Alex The Analyst's 
+   DatabricksSeries GitHub Repository
+3. Upload the dataset into Databricks
+4. Run all cells to reproduce the analysis and dashboard
 
 ## Author
-**Shrusti** — MSc Data Science & AI | Senior ML Data Associate @ Amazon
+**Shrusti Hiremath** — MSc Data Science & AI | 
+Senior ML Data Associate @ Amazon

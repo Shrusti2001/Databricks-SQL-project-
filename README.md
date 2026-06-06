@@ -8,7 +8,8 @@ contributors, and visualise insights through an interactive dashboard.
 ## Tools & Technologies
 - **Platform:** Databricks Community Edition
 - **Language:** SQL
-- **Dataset:** Emissions Data 2023 (Kaggle)
+- **Dataset:** Dataset: Emissions_Data_2023.csv 
+Source: Alex The Analyst — DatabricksSeries GitHub Repository 
 - **Visualisation:** Databricks Dashboard
 
 ## What This Project Covers
